@@ -1,0 +1,31 @@
+{
+    "803278640": {
+        "rating": 5,
+        "city": "Москва",
+        "currency": "RUB",
+        "reserving": false,
+        "model_name": null,
+        "reservation_details": "02.11\nМосква",
+        "reservation_message_id": 1570
+    },
+    "7411578535": {
+        "rating": 5,
+        "city": "Москва",
+        "currency": "RUB"
+    },
+    "5902271585": {
+        "rating": 5,
+        "city": "Ижевск",
+        "currency": "RUB"
+    },
+    "7220762593": {
+        "rating": 5,
+        "city": "Москва",
+        "currency": "RUB"
+    },
+    "6931304042": {
+        "rating": 5,
+        "city": "Казань",
+        "currency": "RUB"
+    }
+}
